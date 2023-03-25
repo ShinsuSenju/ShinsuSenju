@@ -3,5 +3,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShinsuSenju&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinsuSenju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShinsuSenju&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  </div>
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinsuSenju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
