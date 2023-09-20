@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/senpaishane">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- ![Static Badge](https://img.shields.io/badge/Leetcode?style=flat-square&logo=leetcode&logoColor=black&label=LeetCode&labelColor=mustard&link=https%3A%2F%2Fleetcode.com%2FSenpaiShane%2F)
+ [![Static Badge](https://img.shields.io/badge/Leetcode?style=flat-square&logo=leetcode&logoColor=black&label=LeetCode&labelColor=mustard&link=https%3A%2F%2Fleetcode.com%2FSenpaiShane%2F)
 </div>
 
 ### :fire: My Stats :
