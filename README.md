@@ -5,13 +5,13 @@
   <a href="https://www.linkedin.com/in/senpaishane">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  <a href="https://leetcode.com/SenpaiShane/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode"></a>
+
 </div>
 
 
 
 ### :fire: My Stats :
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 [![LeetCode user SenpaiShane](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSenpaiShane&logo=leetcode&logoColor=yellow)](https://leetcode.com/SenpaiShane/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShinshuSenju&theme=dracula)](https://git.io/streak-stats)
  
