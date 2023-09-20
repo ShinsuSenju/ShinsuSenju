@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/SenpaiShane/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode"></a>
+  <a href="https://auth.geeksforgeeks.org/user/senpaishane/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=35914c" alt="GeeksForGeeks"></a>
 
 </div>
 
