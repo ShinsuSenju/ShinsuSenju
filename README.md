@@ -15,6 +15,6 @@
 ### :fire: My Stats :
 [![LeetCode user SenpaiShane](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSenpaiShane&logo=leetcode&logoColor=yellow)](https://leetcode.com/SenpaiShane/)
 
-[![GitHub Stre[![GitHub Streak](https://github-readme-streak-stats-topaz-six.vercel.app?user=ShinshuSenju)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-topaz-six.vercel.app?user=ShinshuSenju)](https://git.io/streak-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinsuSenju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
