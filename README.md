@@ -17,4 +17,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-topaz-six.vercel.app?user=ShinshuSenju)](https://git.io/streak-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinsuSenju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsusenju&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
