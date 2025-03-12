@@ -28,7 +28,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -36,8 +36,9 @@
 
 ## 📊 My Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SenpaiShane?theme=nord&font=Zen%20Old%20Mincho)
+<div align="center">
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/senpaishane?theme=catppuccinMocha&font=Do%20Hyeon)](https://leetcode.com/SenpaiShane/)
 
 [![GitHub Streak](https://github-readme-streak-stats-topaz-six.vercel.app?user=ShinsuSenju&theme=tokyonight)](https://git.io/streak-stats)  
 
