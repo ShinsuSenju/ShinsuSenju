@@ -36,10 +36,7 @@
 
 ## 📊 My Stats  
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems-%23ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SenpaiShane/)
-
+<div align="center">[![LeetCode Stats](https://leetcard.jacoblin.cool/SenpaiShane?ext=activity&theme=dark)](https://leetcode.com/SenpaiShane/)
 
 
 [![GitHub Streak](https://github-readme-streak-stats-topaz-six.vercel.app?user=ShinsuSenju&theme=tokyonight)](https://git.io/streak-stats)  
