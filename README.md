@@ -36,7 +36,7 @@
 
 ## 📊 My Stats  
 
-<div align="center">[![LeetCode Stats](https://leetcard.jacoblin.cool/SenpaiShane?ext=activity&theme=dark)](https://leetcode.com/SenpaiShane/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SenpaiShane?theme=nord&font=Zen%20Old%20Mincho)
 
 
 [![GitHub Streak](https://github-readme-streak-stats-topaz-six.vercel.app?user=ShinsuSenju&theme=tokyonight)](https://git.io/streak-stats)  
