@@ -1,16 +1,8 @@
-```txt
-anurag singh
-software engineer
+# Anurag Singh
 
-focus: dsa • competitive programming • full‑stack
-stack: c++ • python • javascript • node • react • mongodb • git • linux
+Software Engineer · DSA · Full‑Stack · Linux
 
-now:
-- practicing fundamentals daily
-- building small, useful web things
-- exploring linux + systems
+· LinkedIn: https://www.linkedin.com/in/senpaishane 
+· LeetCode: https://leetcode.com/SenpaiShane/ 
 
-links:
-- linkedin → https://www.linkedin.com/in/senpaishane
-- leetcode → https://leetcode.com/SenpaiShane/
-- gfg      → https://auth.geeksforgeeks.org/user/senpaishane/
+Stack: C++ · Python · JavaScript · Node · React · MongoDB · Git · Linux
