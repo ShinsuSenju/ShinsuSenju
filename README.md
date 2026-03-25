@@ -1,8 +1,9 @@
 # Anurag Singh
+Software Engineer | Full-Stack | Test Automation
 
-Software Engineer · DSA · Full‑Stack · Linux
+[LinkedIn](https://www.linkedin.com/in/senpaishane) • [LeetCode](https://leetcode.com/SenpaiShane/)
 
-· LinkedIn: https://www.linkedin.com/in/senpaishane 
-· LeetCode: https://leetcode.com/SenpaiShane/ 
-
-Stack: Java · C++ · Python · JavaScript · Node · React · MongoDB · Git · Linux
+**Languages:** Java, C++, Python, JavaScript  
+**Frameworks:** React, Node.js, MongoDB  
+**Testing:** Selenium, Cucumber, JUnit, JMeter  
+**Tools:** Linux, Git, Maven
